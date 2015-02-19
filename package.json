@@ -1,0 +1,27 @@
+{
+  "name": "world-bank-dataset",
+  "description": "A JSONified dataset of projects funded by the World Bank.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fergiemcdowall/world-bank-dataset",
+  "author": {
+    "name": "Fergus McDowall",
+    "email": "fergusmcdowall@gmail.com"
+  },
+  "keywords": [
+    "dataset",
+    "world",
+    "bank",
+    "json"
+  ],
+  "maintainers": [
+    {
+      "name": "Fergus McDowall",
+      "email": "fergusmcdowall@gmail.com",
+      "url": "https://github.com/fergiemcdowall"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fergiemcdowall/world-bank-dataset"
+  }
+}
