@@ -1,2 +1,4 @@
 # world-bank-dataset
-A test dataset of projects funded by the World Bank.
+
+Derived from a link found at this URL http://jsonstudio.com/resources/
+
