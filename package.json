@@ -22,7 +22,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "test.js"
+    "test": "tape test.js"
   },
   "license": "MIT",
   "devDependencies": {
